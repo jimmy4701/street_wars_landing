@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Quantico";
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+#landing-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    flex-direction: column;
+}
+
+#landing-header h1 {
+    margin: 0;
+}
+
+button {
+    border: 1px solid white;
+    padding: 1em;
+    background-color: black;
+    color: white;
+    font-family: "Quantico";
+}
+
+.explain-part {
+    padding: 1em;
+    text-align: center;
+}
