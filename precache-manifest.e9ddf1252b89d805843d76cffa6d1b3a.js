@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60c4e2381bfb08ab1b1b19ae7a980c4f",
+    "revision": "d689887935927de1c3dd8bba50c77c9d",
     "url": "/street_wars_landing/index.html"
   },
   {
-    "revision": "d99b64e32ecd144aaebb",
+    "revision": "f5042e48d3bcd5e8856c",
     "url": "/street_wars_landing/static/css/main.9d863687.chunk.css"
   },
   {
-    "revision": "e16ce52b295028b7aa3b",
-    "url": "/street_wars_landing/static/js/2.de0c9eea.chunk.js"
+    "revision": "fd051cd621913b2910e3",
+    "url": "/street_wars_landing/static/js/2.56649fe5.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/street_wars_landing/static/js/2.de0c9eea.chunk.js.LICENSE.txt"
+    "url": "/street_wars_landing/static/js/2.56649fe5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d99b64e32ecd144aaebb",
-    "url": "/street_wars_landing/static/js/main.85e9571c.chunk.js"
+    "revision": "f5042e48d3bcd5e8856c",
+    "url": "/street_wars_landing/static/js/main.5779c719.chunk.js"
   },
   {
     "revision": "8e4aa01b9256f574b4e7",
